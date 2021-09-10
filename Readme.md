@@ -5,4 +5,4 @@ You can try this functionality in the following online demo:
 
 
 Starting with version v13.1, ASPxGridView provides the column's <a href="https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewColumn.FilterTemplate">FilterTemplate</a> that allows you to use ASPxGridLookup as a multi-select AutoFilterRow editor. This approach is illustrated in the following example:
-- <a href="https://github.com/DevExpress-Examples/aspxgridview-how-use-aspxgridlookup-as-filterrow-editor-via-filtertemplate-e4521">E4521: ASPxGridView - How to change a default editor to ASPxGridLookup in FilterRow via FilterTemplate</a>
+- <a href="https://github.com/DevExpress-Examples/aspxgridview-how-use-aspxgridlookup-as-filterrow-editor-via-filtertemplate-e4521">ASPxGridView - How to change a default editor to ASPxGridLookup in FilterRow via FilterTemplate</a>
